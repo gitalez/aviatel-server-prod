@@ -4,7 +4,14 @@ server con api rest , mongo y sockets
 # documentacion 
 estara en aviatel.com 
 
-### almacenado en un host propio 
+### host 
+almacenado en un host propio
+
+### globals 
+no estan incluidas 
+
+
+
 
 
 
