@@ -23,7 +23,7 @@
     "express-fileupload": "^1.1.4",
     "faker": "^4.1.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.5.2",
+    "mongoose": "^5.7.5",
     "mongoose-unique-validator": "^2.0.3",
     "pusher": "^2.2.0",
     "shortid": "^2.2.14",
